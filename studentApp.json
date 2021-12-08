@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "name": "ali",
+    "grades": [75, 70, 80],
+    "comments": "verygood",
+    "total": 225
+}, {
+    "id": 2,
+    "name": "omar",
+    "grades": [60, 50, 65],
+    "comments": "good",
+    "total": 175
+}, {
+    "id": 3,
+    "name": "ahmed",
+    "grades": [80, 90, 90],
+    "comments": "",
+    "total": 260
+}, {
+    "id": 4,
+    "name": "ahmed radi",
+    "grades": [90, 50, 40],
+    "comments": "",
+    "total": 180
+}
+]
